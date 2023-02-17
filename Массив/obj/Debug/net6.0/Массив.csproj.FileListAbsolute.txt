@@ -1,0 +1,15 @@
+D:\GB\Контрольная\Массив\bin\Debug\net6.0\Массив.exe
+D:\GB\Контрольная\Массив\bin\Debug\net6.0\Массив.deps.json
+D:\GB\Контрольная\Массив\bin\Debug\net6.0\Массив.runtimeconfig.json
+D:\GB\Контрольная\Массив\bin\Debug\net6.0\Массив.dll
+D:\GB\Контрольная\Массив\bin\Debug\net6.0\Массив.pdb
+D:\GB\Контрольная\Массив\obj\Debug\net6.0\Массив.csproj.AssemblyReference.cache
+D:\GB\Контрольная\Массив\obj\Debug\net6.0\Массив.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\Контрольная\Массив\obj\Debug\net6.0\Массив.AssemblyInfoInputs.cache
+D:\GB\Контрольная\Массив\obj\Debug\net6.0\Массив.AssemblyInfo.cs
+D:\GB\Контрольная\Массив\obj\Debug\net6.0\Массив.csproj.CoreCompileInputs.cache
+D:\GB\Контрольная\Массив\obj\Debug\net6.0\Массив.dll
+D:\GB\Контрольная\Массив\obj\Debug\net6.0\refint\Массив.dll
+D:\GB\Контрольная\Массив\obj\Debug\net6.0\Массив.pdb
+D:\GB\Контрольная\Массив\obj\Debug\net6.0\Массив.genruntimeconfig.cache
+D:\GB\Контрольная\Массив\obj\Debug\net6.0\ref\Массив.dll
